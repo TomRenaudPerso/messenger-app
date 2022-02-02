@@ -1,0 +1,28 @@
+.container-not-found {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 1.875rem;
+}
+.container-not-found > div {
+    display: flex;
+    align-items: center;
+}
+.title-not-found {
+    font-size: 12.5rem;
+    font-family: 'Roboto',Helvetica Neue,Arial,Sans-serif;
+    color: #30302f;
+}
+.logo-not-found {
+    width: 12.5rem;
+    height: 12.5rem;
+}
+.msg-not-found {
+    margin-top: 0.625rem;
+    font-size: 1.25rem;
+    color: #30302F;
+}
+.fallback-btn {
+    margin: 1.25rem;
+}

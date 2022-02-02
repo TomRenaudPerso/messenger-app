@@ -1,0 +1,43 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should match snapshot 1`] = `
+<div
+  style={
+    Object {
+      "display": "flex",
+      "flexDirection": "column",
+      "margin": "0.625rem 0",
+    }
+  }
+>
+  <span
+    data-testid="authorMessage"
+    style={
+      Object {
+        "color": "grey",
+        "marginLeft": "1.25rem",
+      }
+    }
+  >
+    John Doe
+  </span>
+  <div
+    data-testid="bodyMessage"
+    style={
+      Object {
+        "backgroundColor": "lightGrey",
+        "borderRadius": "1.875rem",
+        "color": "black",
+        "display": "flex",
+        "fontWeight": 400,
+        "margin": "0.625rem",
+        "maxWidth": "31.25rem",
+        "padding": "0.625rem",
+        "width": "fit-content",
+      }
+    }
+  >
+    Hello World
+  </div>
+</div>
+`;
