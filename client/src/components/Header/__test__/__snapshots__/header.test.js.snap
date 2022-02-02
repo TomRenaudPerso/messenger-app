@@ -7,10 +7,14 @@ exports[`should match snapshot 1`] = `
   <div
     className="container-header-title"
   >
-    <img
-      alt="Leboncoin logo"
-      src="/images/lbc-logo.webp"
-    />
+    <a
+      href="/conversations"
+    >
+      <img
+        alt="Leboncoin logo"
+        src="/images/lbc-logo.webp"
+      />
+    </a>
   </div>
   <div
     className="container-header-actions"
